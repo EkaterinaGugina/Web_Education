@@ -1,3 +1,39 @@
 Ресурсы
 https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics
 https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics
+
+http://htmlbook.ru/html/input/placeholder
+https://webref.ru/
+https://pastebin.com/CUB0qAXq  /* интерактивная проверка кода, */
+https://validator.w3.org/#validate_by_input
+
+https://open-vsx.org/extension/ritwickdey/LiveServer
+
+https://docs.emmet.io/cheat-sheet/   /* конструкции всех команд */
+https://epixx.github.io/emmet/   /* Основы: Как работает Emmet */
+
+Для тех, кто хочет углубиться в html/css, вступаем в группу vk https://vk.com/geekbrainshtmlcss, там можно найти курсы по html/css, смотрим курсы по порядку:
+Курс html/css: https://disk.yandex.ru/d/-lxSgFeJlWMy4Q
+Курс "Профессиональная верстка":
+1 урок
+Запись урока https://youtu.be/5Ijqb1wLcvc
+Материалы урока https://yadi.sk/d/oFHUPCBXaQT5Zg   и далее.
+
+
+HTML валидатор  -- проверка верности кода
+https://validator.w3.org/#validate_by_input
+
+Сокращения (горячие клавиши) для Emmet
+https://docs.emmet.io/cheat-sheet/
+
+Список html тегов
+https://html5book.ru/html-tags/
+
+Руководство по html
+https://developer.mozilla.org/ru/docs/Web/HTML
+
+Расширение для vscode для валидации html кода
+https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation
+
+Таблица символов unicode
+http://foxtools.ru/Unicode
