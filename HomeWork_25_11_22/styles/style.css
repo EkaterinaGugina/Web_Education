@@ -1,0 +1,51 @@
+@font-face {
+	font-family: 'Caviar Dreams';
+	src: url('fonts/caviar_dreams.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/caviar_dreams.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/caviar_dreams.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/caviar_dreams.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/caviar_dreams.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/caviar_dreams.svg#caviar_dreams') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+html {
+    background-color: rgb(224, 215, 212);
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту */
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FFEFD5;
+    padding: 0 20px 20px 20px;
+    border: 10px solid whitesmoke;
+}
+
+h1 {
+    color: rgba(196, 64, 103, 0.877);
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 1px white;
+    font-family: 'Caviar Dreams', sans-serif;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    color: rgb(162, 0, 255)
+}
+
+h3 {
+    color: rgb(13, 99, 230)
+}
+
+.txt {
+    color: rgb(9, 167, 88);
+    font-size: 150%;
+}
